@@ -2,7 +2,7 @@
 
 **Left** CT image | **Center** manually segmented lungs | **Right** Predicted result
 
-[![result.png](https://github.com/jmin-yd/kaggle-CT_lungs_segmentation/tree/test_512size/result/result_512.png)]()  
+![result.png](https://github.com/jmin-yd/kaggle-CT_lungs_segmentation/blob/test_512size/result/result_512.png)
 
 
 ## Dependencies
