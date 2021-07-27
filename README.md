@@ -1,12 +1,11 @@
 # CT Lung Segmentation
 
-**Left** CT image | **Center** manually segmented lungs | **Right** Predicted result  
-
 512 이미지 사이즈 그대로 학습 시도. 
 preprocessing 진행한 데이터 파일은 용량이 큰 관계로 업로드 못함.  
 
 아래. 결과 이미지
 
+**Left** CT image | **Center** manually segmented lungs | **Right** Predicted result  
 ![result.png](https://github.com/jmin-yd/kaggle-CT_lungs_segmentation/blob/test_512size/result/result_512.png)
 
 
